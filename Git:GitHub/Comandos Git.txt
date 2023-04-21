@@ -1,0 +1,17 @@
+Anotações sobre Git
+
+Comandos:
+
+git status
+
+git clone COLAR ENDEREÇO DO GITHUB
+
+git init
+
+git add .
+
+git commit -m "NOME DA VERSÃO"
+
+git branch -M NOMEDOBRANCH
+
+git 
